@@ -1,0 +1,30 @@
+"I guess you could say that data engineers are the back-end developers of ‘data-intensive application development’." - Reddit
+Learn Backend Development the smart way: https://www.boot.dev/dashboard
+# Role of Data scientists:
+- Identify business problem
+- Collect data
+- Prepare data for analysis by manipulating and cleaning it
+- Store data
+- Analyze data to find trends and patterns
+- Build, train, and validate the model
+- Present insights
+# Data Engineer
+- Data engineers are more concerned with data infrastructure, its development, and maintenance, including data warehousing and extracting, transforming, and loading data (ETL/ELT).
+# Role of Data Engineers:
+When making data available for other users, data engineers:
+- Build a pipeline
+- Maintain a pipeline
+- Wrangle data
+![01 - Data Pipeline](image.png)
+* Data sources - are where the data is coming from. It can be anything, from databases, cloud storage, Internet of things to applications and file upload.
+* Data processing - is what happens when raw data is extracted from its sources, transformed, and loaded into data storage.
+That’s why this is called ETL or Extract, Transform, Load. After it’s pulled from the sources, the data is made usable by organizing, cleaning, changing, and validating it. In short, data is wrangled. Once this step is finished, the data is stored.
+There’s also a similar process called ELT, which stands for Extract, Load, Transform. After extracting data, it’s saved into data storage, and only after that, the data transformation is performed.
+Data storage is where the data is saved after it’s been processed. Usually, it’s a data warehouse or data lake. From there, data is made available to business users and other data professionals.
+# Types of Data Engineering Jobs
+What a data engineer will focus on depends on the company size. No matter what, it will for sure revolve around data wrangling, building, and maintaining pipelines.
+Based on that, there are three distinct types of data engineering jobs:
+- general practitioner
+- pipeline specialist
+- database specialist
+![02 - Data Engineering Skills](image.png)
